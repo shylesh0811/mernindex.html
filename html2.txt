@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: white;
+  width: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div>
+  <h4>Lists can be nested(list inside list):</h4><ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+    <li>Black tea</li>
+    <li>Green tea
+     
+    </li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul></div>
+
+</body>
+</html>
+
+3.<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div>
+  <h4>Click any of the following links</h4>
+  <a href="https://www.ethnus.com/"target="_blank">Opens in New</a>
+   <a href="https://www.ethnus.com/">|Opens in New</a>
+
+</div>
+
+</body>
+</html>
